@@ -1,3 +1,3 @@
 # jkaloger.com
-Site code for [https://jkaloger.com](jkaloger.com)
+Site code for [jkaloger.com](https://jkaloger.com)
 
